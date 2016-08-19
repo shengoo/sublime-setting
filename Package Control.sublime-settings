@@ -8,6 +8,7 @@
 		"All Autocomplete",
 		"AngularJS",
 		"AutoFileName",
+		"Babel",
 		"BracketHighlighter",
 		"Compare Side-By-Side",
 		"DocBlockr",
@@ -16,7 +17,8 @@
 		"Git",
 		"HTML5",
 		"jQuery",
-		"JSHint Gutter",
+		"JsFormat",
+		"JSHint",
 		"Markdown Preview",
 		"Package Control",
 		"SideBarEnhancements"
