@@ -1,4 +1,7 @@
 {
   "cmd":["node","$file"],
-  "selector":"source.js"
+  "selector":"source.js",
+  "osx":{
+    "cmd":["/usr/local/bin/node","$file"],
+  }
 }
