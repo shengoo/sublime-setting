@@ -2,6 +2,6 @@
   "cmd":["node","$file"],
   "selector":"source.js",
   "osx":{
-    "cmd":["/usr/local/bin/node","$file"],
+  	"path":"/usr/local/bin"
   }
 }
