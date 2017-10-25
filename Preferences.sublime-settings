@@ -2,5 +2,6 @@
 	"ignored_packages":
 	[
 		"Vintage"
-	]
+	],
+	"show_encoding": true
 }

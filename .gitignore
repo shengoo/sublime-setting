@@ -6,3 +6,4 @@ Package Control.cache/
 Package Control.ca-certs/
 /Package Control.merged-ca-bundle
 oscrypto-ca-bundle.crt
+/encoding_cache.json
