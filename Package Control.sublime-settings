@@ -2,6 +2,9 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
+		"CodeFormatter",
+		"Git",
+		"Markdown Preview"
 	],
 	"installed_packages":
 	[

@@ -1,6 +1,9 @@
 {
 	"ignored_packages":
 	[
+		"CodeFormatter",
+		"Git",
+		"Markdown Preview",
 		"Vintage"
 	],
 	"show_encoding": true
