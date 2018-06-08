@@ -1,10 +1,15 @@
 {
 	"ignored_packages":
 	[
-		"CodeFormatter",
-		"Git",
-		"Markdown Preview",
-		"Vintage"
+		"0_package_control_loader",
+		"BracketHighlighter",
+		"Compare Side-By-Side",
+		"DocBlockr",
+		"Emmet",
+		"HTML5",
+		"JsFormat",
+		"Vintage",
+		"Vue Syntax Highlight"
 	],
 	"show_encoding": true
 }

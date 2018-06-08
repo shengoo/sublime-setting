@@ -1,35 +1,25 @@
 {
 	"bootstrapped": true,
-	"in_process_packages":
-	[
-		"CodeFormatter",
-		"Git",
-		"Markdown Preview"
-	],
 	"installed_packages":
-	[
-		"All Autocomplete",
-		"AngularJS",
-		"AutoFileName",
-		"Babel",
-		"BracketHighlighter",
-		"CodeFormatter",
-		"Compare Side-By-Side",
-		"ConvertToUTF8",
-		"DocBlockr",
-		"EditorConfig",
-		"Emmet",
-		"ESLint",
-		"Git",
-		"HTML5",
-		"jQuery",
-		"JsFormat",
-		"JSHint",
-		"LESS",
-		"MarkdownPreview",
-		"Package Control",
-		"SideBarEnhancements",
-		"TypeScript",
-		"Vue Syntax Highlight"
-	]
+       [
+               "All Autocomplete",
+               "AngularJS",
+               "AutoFileName",
+               "Babel",
+               "BracketHighlighter",
+               "Compare Side-By-Side",
+               "ConvertToUTF8",
+               "DocBlockr",
+               "EditorConfig",
+               "Emmet",
+               "ESLint",
+               "HTML5",
+               "JsFormat",
+               "JSHint",
+               "LESS",
+               "Package Control",
+               "SideBarEnhancements",
+               "TypeScript",
+               "Vue Syntax Highlight"
+       ]
 }
